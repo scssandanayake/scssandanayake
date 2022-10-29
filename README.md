@@ -11,7 +11,7 @@
 ## 🌐 connect with me:
 
 <p align="left">
-<a href="https://twitter.com/chamara_srinath_sandanayake" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="chamara srinath sandanayake" height="30" width="40" /></a>
+<a href="https://twitter.com/chamara_srinath?t=GsbgamVKvs3GbIlLoM06dQ&s=09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="chamara srinath sandanayake" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/chamara-sandanayake-3a8227241/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chamara sandanayake" height="30" width="40" /></a>
 <a href="https://instagram.com/chamara_sandanayake" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="chamara_sandanayake" height="30" width="40" /></a>
 </p>
