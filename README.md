@@ -3,7 +3,8 @@
 <h3 align="center">A frontend developer from Sri Lanka. An undergraduate.</h3>
 <img align="right" alt="Coding" width="400" src="https://www.tekrevol.com/blogs/wp-content/uploads/2022/02/1.gif">
 💫 About Me:<br><br>
-🔭 I’m Chamara Sandanayake.<br>👯 I'm a beginner level frontend developer.<br>🤝 I’m looking for help with full stack development.<br>🌱 I’m currently learning for my bachelor's in computer science. <br>⚡ connecting the dots.
+🔭 I’m Chamara Sandanayake.<br>👯 I'm a beginner level frontend developer.<br>🤝 I’m looking for help with full stack development.<br>🌱 I’m currently learning for my bachelor's in computer science. <br>⚡ connecting the dots.<br><br>
+📫 How to reach me **chamarasand70@gmail.com**
 
 
 ## 🌐 Socials:
@@ -24,3 +25,10 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=scssandanayake&icon=0&color=11)](https://visitcount.itsvg.in)
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=scssandanayake&label=Profile%20views&color=0e75b6&style=flat" alt="scssandanayake" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=scssandanayake" alt="scssandanayake" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/chamara srinath sandanayake" target="blank"><img src="https://img.shields.io/twitter/follow/chamara srinath sandanayake?logo=twitter&style=for-the-badge" alt="chamara srinath sandanayake" /></a> </p>
+
