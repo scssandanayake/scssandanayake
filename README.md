@@ -4,7 +4,7 @@
 <img align="right" alt="Coding" width="400" src="https://www.tekrevol.com/blogs/wp-content/uploads/2022/02/1.gif">
 💫 About Me:<br><br>
 🔭 I’m Chamara Sandanayake.<br>👯 I'm a beginner level frontend developer.<br>🤝 I’m looking for help with full stack development.<br>🌱 I’m currently learning for my bachelor's in computer science. <br>⚡ connecting the dots.<br><br>
-📫 How to reach me **chamarasand70@gmail.com**
+📫 How to reach me **https://gmail.com/chamarasand70@gmail.com**
 
 
 ## 🌐 connect with me:
