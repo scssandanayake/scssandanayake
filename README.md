@@ -34,6 +34,10 @@
 ### ✍️ Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
+<h1>Achievements</h1>
+
+[![@scssandanayake's Holopin board](https://holopin.me/scssandanayake)](https://holopin.io/@scssandanayake)
+
 ---
 [![](https://visitcount.itsvg.in/api?id=scssandanayake&icon=0&color=11)](https://visitcount.itsvg.in)
 
