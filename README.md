@@ -1,10 +1,14 @@
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+
 ![MasterHead](https://camo.githubusercontent.com/0850a9b90bf720b08cafe764aea52d8cf2cc7048d4f8080297e8988b76bb08b8/68747470733a2f2f7265732e636c6f7564696e6172792e636f6d2f7375706572666f6c696f2f696d6167652f75706c6f61642f76313632303638393937392f36383734373437303733336132663266363932653730363936653639366436373265363336663664326636663732363936373639366536313663373332663633333632663333333332663633333232663633333633333333363333323330363536343635333833323636333036353330363336353634333736343335333733303634363236353333363133313636333332653637363936365f796a756832732e676966)
-<h1 align="center">Hi 👋, I'm Chamara Sandanayake</h1>
+
+<h1 align="center"> Hi 👋,I'm chamara sandanayake</h1>
 <h3 align="center">From Sri Lanka. Undergraduate.</h3>
+
 <img align="right" alt="Coding" width="350" src="https://www.tekrevol.com/blogs/wp-content/uploads/2022/02/1.gif">
 
 💫 About Me:<br><br>
-🔭 I’m Chamara Sandanayake.<br>👯 I'm a beginner level frontend developer.<br>🤝 I’m looking for help with full stack development.<br>🌱 I’m currently learning for my bachelor's in computer science. <br>⚡ connecting the dots.<br><br>
+🔭 I’m Chamara srinath Sandanayake.<br>👯 I'm a beginner level frontend developer.<br>🤝 I’m looking for help with full stack development.<br>🌱 I’m currently learning for my bachelor's in computer science. <br>⚡ connecting the dots.<br><br>
 📫 How to reach me **chamarasand70@gmail.com**<br><br>
 
 ## 🌐 connect with me:
@@ -34,12 +38,17 @@
 ### ✍️ Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+
 <h1>Achievements</h1>
 
 [![@scssandanayake's Holopin board](https://holopin.me/scssandanayake)](https://holopin.io/@scssandanayake)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=scssandanayake&icon=0&color=11)](https://visitcount.itsvg.in)
+
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+
 
 
 
