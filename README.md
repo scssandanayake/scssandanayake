@@ -5,7 +5,7 @@
 <h1 align="center"> Hi 👋,I'm chamara sandanayake</h1>
 <h3 align="center">From Sri Lanka. Undergraduate.</h3>
 
-<img align="right" alt="Coding" width="350" src="https://www.tekrevol.com/blogs/wp-content/uploads/2022/02/1.gif">
+<img align="right" alt="Coding" width="340" src="https://www.tekrevol.com/blogs/wp-content/uploads/2022/02/1.gif">
 
 💫 About Me:<br><br>
 🔭 I’m Chamara srinath Sandanayake.<br>👯 I'm a beginner level frontend developer.<br>🤝 I’m looking for help with frontend development,UIUX designing.<br>🌱 I’m currently learning for my bachelor's in computer science. <br>⚡ connecting the dots.<br><br>
