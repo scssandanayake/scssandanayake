@@ -46,9 +46,9 @@
 [![@scssandanayake's Holopin board](https://holopin.me/scssandanayake)](https://holopin.io/@scssandanayake)
 
 ---
-<img align="left" alt="Coding" width="200" src="https://res.cloudinary.com/practicaldev/image/fetch/s--TONZ7S3u--/c_limit,f_auto,fl_progressive,q_80,w_250/https://dev-to-uploads.s3.amazonaws.com/uploads/badge/badge_image/206/ht-badge.png"><br><br>
-
-<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+<img align="left" alt="Coding" width="200" src="https://res.cloudinary.com/practicaldev/image/fetch/s--TONZ7S3u--/c_limit,f_auto,fl_progressive,q_80,w_250/https://dev-to-uploads.s3.amazonaws.com/uploads/badge/badge_image/206/ht-badge.png">
+<br>
+<br><a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 
 
