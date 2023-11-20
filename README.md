@@ -3,7 +3,7 @@
 ![MasterHead](https://user-images.githubusercontent.com/74038190/240906093-9be4d344-6782-461a-b5a6-32a07bf7b34e.gif)
 
 <h1 align="center"> Hi 👋,I'm chamara sandanayake</h1>
-<h3 align="center">From Sri Lanka 🇱🇰 Undergrad.</h3>
+<h3 align="center">From Sri Lanka.Undergrad.</h3>
 
 💫 About Me:<br><br>
 🔭 I’m Chamara srinath Sandanayake.<br><br>
