@@ -27,15 +27,13 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=scssandanayake&theme=discord&no-frame=false)
 
-[![](https://visitcount.itsvg.in/api?id=scssandanayake&icon=0&color=11)](https://visitcount.itsvg.in)
-
-
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 <h1>Achievements</h1>
 
 [![@scssandanayake's Holopin board](https://holopin.me/scssandanayake)](https://holopin.io/@scssandanayake)
 
+[![](https://visitcount.itsvg.in/api?id=scssandanayake&icon=0&color=11)](https://visitcount.itsvg.in)
 ---
 <br>
 <br>
