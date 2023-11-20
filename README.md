@@ -3,9 +3,9 @@
 ![MasterHead](https://user-images.githubusercontent.com/74038190/240906093-9be4d344-6782-461a-b5a6-32a07bf7b34e.gif)
 
 <h1 align="center"> Hi 👋,I'm chamara sandanayake</h1>
-<h3 align="center">From Sri Lanka. Undergraduate.</h3>
+<h3 align="center">From Sri Lanka 🇱🇰 Undergrad.</h3>
 
-<img align="right" alt="Coding" width="340" higeht="310" src="https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif">
+<img align="right" alt="Coding" width="320" src="https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif">
 
 💫 About Me:<br><br>
 🔭 I’m Chamara srinath Sandanayake.<br><br>
