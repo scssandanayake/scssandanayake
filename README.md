@@ -2,11 +2,19 @@
 
 <!-- Header with animation -->
 <p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Footer Animation">
+</p>
+
+<p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/240906093-9be4d344-6782-461a-b5a6-32a07bf7b34e.gif" alt="Header Animation">
 </p>
 
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Footer Animation">
+</p>
+
 <h1 align="center">Hi there! 👋 I'm Chamara Sandanayake</h1>
-<h3 align="center">🚀 Developer | 💻 Tech Enthusiast | 🌍 Based in Sri Lanka</h3>
+<h3 align="center">🚀 Developer | 💻 Tech Enthusiast | 🌍 Based in Sri Lanka 🇱🇰</h3>
 
 <p align="center">
   <a href="mailto:chamarasand70@gmail.com"><img src="https://img.shields.io/badge/Email-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
@@ -19,10 +27,12 @@
 
 ## 🌟 About Me
 
-- 🔭 I’m Chamara Srinath Sandanayake.
-- 💬 Ask me about **Software Development**, **Machine Learning**, and **Tech Innovations**.
-- 🌱 Currently exploring **Deep Learning** and **Full-Stack Development**.
-- 📫 Reach me at: **chamarasand70@gmail.com**.
+- 🔭 I’m Chamara Srinath Sandanayake
+- 💬 Ask me about **Software Development**, **Machine Learning**, and **Tech Innovations**
+- 🌱 Currently exploring **New Tech**
+- 📘 Undergraduate
+- 🏎️ passionate about automobile 💨
+- ❤️ Classical & Bollywood Music lover
 
 ---
 
@@ -30,13 +40,19 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=scssandanayake&theme=radical&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=scssandanayake&theme=radical&hide_border=false" alt="GitHub Streak" onerror="this.src='https://via.placeholder.com/468x150?text=Streak+Stats+Unavailable'">
+  <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=scssandanayake&theme=radical&hide_border=false" alt="GitHub Streak" onerror="this.src='https://via.placeholder.com/468x150?text=Streak+Stats+Unavailable'"> -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=scssandanayake&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages">
 </div>
 
 ---
+## 🏆 GitHub Trophies
 
-## 🏆 Achievements
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=scssandanayake&theme=discord&no-frame=false&column=7" alt="GitHub Trophies">
+</div>
+
+---
+## 🏅 Achievements
 
 <div align="center">
   <a href="https://holopin.io/@scssandanayake">
