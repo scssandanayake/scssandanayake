@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/240906093-9be4d344-6782-461a-b5a6-32a07bf7b34e.gif" alt="Header Animation">
+  <img src="https://user-images.githubusercontent.com/74038190/240906093-9be4d344-6782-461a-b5a6-32a07bf7b34e.gif" alt="Header Animation" width="700" height="500">
 </p>
 
 <p align="center">
@@ -39,9 +39,17 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=scssandanayake&theme=radical&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats">
   <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=scssandanayake&theme=radical&hide_border=false" alt="GitHub Streak" onerror="this.src='https://via.placeholder.com/468x150?text=Streak+Stats+Unavailable'"> -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=scssandanayake&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages">
+  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=scssandanayake&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages"> -->
+
+  [![scssandanayake's GitHub | Languages Over Time](https://stats.quira.sh/scssandanayake/languages-over-time?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=scssandanayake)
+
+  [![scssandanayake's GitHub | Topics Over Time](https://stats.quira.sh/scssandanayake/topics-over-time?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=scssandanayake)
+
+  [![scssandanayake's GitHub | Stats](https://stats.quira.sh/scssandanayake/github?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=scssandanayake)
+
+  <img src="https://github-readme-stats.vercel.app/api?username=scssandanayake&theme=radical&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats">
+  
 </div>
 
 ---
@@ -59,16 +67,6 @@
     <img src="https://holopin.me/scssandanayake" alt="Holopin Badges">
   </a>
 </div>
-
----
-
-## 🌐 Connect with Me
-
-<p align="center">
-  <a href="https://twitter.com/chamara_srinath?t=GsbgamVKvs3GbIlLoM06dQ&s=09" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" /></a>
-  <a href="https://www.linkedin.com/in/chamara-sandanayake-3a8227241/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
-  <a href="https://instagram.com/chamara_sandanayake" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
-</p>
 
 ---
 
