@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/240906093-9be4d344-6782-461a-b5a6-32a07bf7b34e.gif" alt="Header Animation" width="700" height="500">
+  <img src="https://user-images.githubusercontent.com/74038190/240906093-9be4d344-6782-461a-b5a6-32a07bf7b34e.gif" alt="Header Animation" width="600" height="400">
 </p>
 
 <p align="center">
@@ -23,7 +23,9 @@
   <a href="https://instagram.com/chamara_sandanayake" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
 </p>
 
----
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Footer Animation">
+</p>
 
 ## 🌟 About Me
 
@@ -34,7 +36,9 @@
 - 🏎️ passionate about automobile 💨
 - ❤️ Classical & Bollywood Music lover
 
----
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Footer Animation">
+</p>
 
 ## 📊 GitHub Stats
 
@@ -48,18 +52,24 @@
 
   [![scssandanayake's GitHub | Stats](https://stats.quira.sh/scssandanayake/github?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=scssandanayake)
 
-  <img src="https://github-readme-stats.vercel.app/api?username=scssandanayake&theme=radical&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats">
+  <!-- img src="https://github-readme-stats.vercel.app/api?username=scssandanayake&theme=radical&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats"> -->
   
 </div>
 
----
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Footer Animation">
+</p>
+
 ## 🏆 GitHub Trophies
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=scssandanayake&theme=discord&no-frame=false&column=7" alt="GitHub Trophies">
 </div>
 
----
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Footer Animation">
+</p>
+
 ## 🏅 Achievements
 
 <div align="center">
@@ -68,15 +78,15 @@
   </a>
 </div>
 
----
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Footer Animation">
+</p>
 
 ## 📈 Visitor Insights
 
 <p align="center">
   <img src="https://visitcount.itsvg.in/api?id=scssandanayake&icon=0&color=11" alt="Visitor Count">
 </p>
-
----
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Footer Animation">
