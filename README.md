@@ -34,7 +34,7 @@
   - [x] 🌱 Currently exploring New Tech
   
 - **Interseted in :**
-  - [x] Mobile development
+  - [x] Mobile application development
   - [x] AI / ML & DL
   - [x] 🏎️ passionate about automobile + tech 💨
   - [x] ❤️ Music
