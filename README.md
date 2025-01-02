@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/240906093-9be4d344-6782-461a-b5a6-32a07bf7b34e.gif" alt="Header Animation" width="500" height="325">
+  <img src="https://user-images.githubusercontent.com/74038190/240906093-9be4d344-6782-461a-b5a6-32a07bf7b34e.gif" alt="Header Animation" width="500" height="350">
 </p>
 
 <p align="center">
@@ -37,7 +37,7 @@
   - [x] Mobile development
   - [x] AI / ML & DL
   - [x] 🏎️ passionate about automobile + tech 💨
-  - [x] ❤️ Classical & Bollywood Music lover
+  - [x] ❤️ Music
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Footer Animation">
