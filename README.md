@@ -1,20 +1,20 @@
 <!-- Modernized GitHub README -->
 
 <!-- Header with animation -->
-<p align="center">
+<!--p align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Footer Animation">
-</p>
+</p-->
 
-<p align="center">
+<!--p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/240906093-9be4d344-6782-461a-b5a6-32a07bf7b34e.gif" alt="Header Animation" width="500" height="350">
-</p>
+</p-->
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Footer Animation">
 </p>
 
 <h1 align="center">Hi there! 👋 I'm Chamara Sandanayake</h1>
-<h3 align="center">🚀 Developer | 💻 Tech Enthusiast | 🌍 Based in Sri Lanka 🇱🇰</h3>
+<h3 align="center">🚀 Developer | 💻 Tech Enthusiast | AI, ML & DL 🧮 | 🌍 Based in Sri Lanka 🇱🇰</h3>
 
 <p align="center">
   <a href="mailto:chamarasand70@gmail.com"><img src="https://img.shields.io/badge/Email-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
@@ -27,21 +27,9 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Footer Animation">
 </p>
 
-## 🌟 About Me
-
-  - [x] 🔭 I’m Chamara Srinath Sandanayake
-  - [x] 📘 Undergraduate
-  - [x] 🌱 Currently exploring New Tech
-  
-- **Interests :**
-  - [x] Mobile application development
-  - [x] AI / ML & DL
-  - [x] 🏎️ passionate about automobile + tech 💨
-  - [x] ❤️ Music
-
-<p align="center">
+<!--p align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Footer Animation">
-</p>
+</p-->
 
 ## 📊 GitHub Stats
 
