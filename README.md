@@ -73,7 +73,7 @@ areas_of_expertise = {
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=scssandanayake&theme=algolia&no-frame=true&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies">
+  <img src="https://github-profile-trophy.vercel.app/?username=scssandanayake&theme=algolia&no-frame=true&column=9&margin-w=15&margin-h=15" alt="GitHub Trophies">
 </div>
 
 ## 🔄 Current Activity
